@@ -9,7 +9,15 @@ app_license = "MIT"
 
 # Includes in <head>
 # ------------------
-
+add_to_apps_screen = [
+    {
+        "name": "drive",
+        "logo": "/assets/commit/Altrix icons-options_Commit.png",
+        "title": "Commit",
+        "route": "/commit",
+        "has_permission": "commit.api.permissions.has_app_permission",
+    }
+]
 # include js, css files in header of desk.html
 # app_include_css = "/assets/commit/css/commit.css"
 # app_include_js = "/assets/commit/js/commit.js"
