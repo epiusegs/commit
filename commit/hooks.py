@@ -19,7 +19,6 @@ add_to_apps_screen = [
         "logo": "/assets/commit/Altrix icons-options_Commit.png",
         "title": "Commit",
         "route": "/commit",
-        "has_permission": "commit.api.permissions.has_app_permission",
     }
 ]
 # include js, css files in header of web template
