@@ -11,7 +11,7 @@ app_license = "MIT"
 # ------------------
 add_to_apps_screen = [
     {
-        "name": "drive",
+        "name": "commit",
         "logo": "/assets/commit/Altrix icons-options_Commit.png",
         "title": "Commit",
         "route": "/commit",
